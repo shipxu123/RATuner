@@ -1,0 +1,9 @@
+{
+    "post_multicut_via_effort": "drouteUseMultiCutViaEffort",
+    "litho_driven": "routeWithLithoDriven",
+    "si_driven": "routeWithSiDriven",
+    "timing_driven": "routeWithTimingDriven",
+    "via_opt": "viaOpt",
+    "wire_opt": "wireOpt",
+    "hold": "hold"
+}

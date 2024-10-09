@@ -1,0 +1,9 @@
+run/*/
+dev/baseline/
+dev/test/
+history*
+variant*
+*/__pycache__/
+*.bin
+*.txt
+RAG-text-embedding-model/

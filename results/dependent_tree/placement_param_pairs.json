@@ -1,0 +1,10 @@
+{
+    "detail_wire_length_opt": "place_detail_wire_length_opt_effort",
+    "global_clock_gate_aware": "place_global_clock_gate_aware",
+    "global_clock_power_driven_effort": "place_global_clock_power_driven_effort",
+    "global_cong_effort": "place_global_cong_effort",
+    "global_place_io_pins": "place_global_place_io_pins",
+    "global_soft_guide_strength": "place_global_soft_guide_strength",
+    "global_timing_effort": "place_global_timing_effort",
+    "global_uniform_density": "place_global_uniform_density"
+}
